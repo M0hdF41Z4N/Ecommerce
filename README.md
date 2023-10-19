@@ -1,7 +1,8 @@
 <h1>BuyBusy</h1>
-<p>• Developed an online shopping/eCommerce website using Reactjs and Redux Toolkit for efficient state management.
-• Implemented authentication system allowing users to sign up / sign in to their accounts.
-• Stored user data in firebase database for seamless data storage on the cloud, enabling users to easily access and view their purchase history all on realtime.
+<p>
+• Developed an online shopping/eCommerce website using Reactjs and Redux Toolkit for efficient state management.</br>
+• Implemented authentication system allowing users to sign up / sign in to their accounts.</br>
+• Stored user data in firebase database for seamless data storage on the cloud, enabling users to easily access and view their purchase history all on realtime.</br>
 • Employed React, Redux Toolkit, Firebase, HTML, CSS, JavaScript, and Bootstrap frameworks to create a more user friendly website.</p>
 
 
