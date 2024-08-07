@@ -144,7 +144,7 @@
 /* container of name and price */
 .namePrice{
     display: flex;
-    height: 45%;
+    height: auto;
     text-align: center;
 }
 
